@@ -95,6 +95,6 @@ Certainly! Here are the key facts about training the multimodal sentiment analys
 ## Results
 
 ![Image Description](src/images/fusion-1-acc.PNG)
-![Image Description](src/mages/fusion-1-accuracy-graph.PNG)
+![Image Description](src/images/fusion-1-accuracy-graph.PNG)
 ![Image Description](src/images/fusion-1-confusion-matrix.PNG)
 
